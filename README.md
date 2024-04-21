@@ -4,7 +4,7 @@
 
 ## Description
 
-Ecommerce_System is a comprehensive system for managing an ecommerce platform. It includes functionalities for managing products, orders, customers, and more. This repository serves as the core codebase for the system.
+Ecommerce_System is a simple comprehensive system for managing an ecommerce platform. It includes functionalities for managing products, orders, customers, and more. This repository serves as the core codebase for the system.
 
 ## Features
 
